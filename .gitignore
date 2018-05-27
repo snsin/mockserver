@@ -91,3 +91,4 @@ fabric.properties
 Будет удалено pom.xml
 Будет удалено src/
 Будет удалено target/
+/.idea/vcs.xml
